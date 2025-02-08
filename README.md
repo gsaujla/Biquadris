@@ -66,7 +66,6 @@ If you’ve mastered the base game, consider adding:
 
 🚀 **Ready to challenge your friends?** Let the Biquadris battles begin!
 
-📉 **License**: [Specify your license here]
 
 📢 **Feedback & Contributions:** PRs and suggestions are welcome!
 
